@@ -5,3 +5,6 @@ Initial E-Commerce Profitability Analysis, Develop a basic profitability set of 
 
 Analysis of how Southwest Office Solutions should revise its account service tiers to improve profitability set of dashboards and explanation of my design. Link to Tableau workbook: https://public.tableau.com/views/Advancingintableaupart2/AccountPortfolioDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 If I were doing this again, I would have started sooner to give myself more time to create multiple visuals for the applied visual to see which was best. 
+
+MIS 561 Data Visualization, Data Camp Power BI training completed on 9/27/26 
+Link to published Tableau story: https://public.tableau.com/views/PowerBITrainingCert/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
