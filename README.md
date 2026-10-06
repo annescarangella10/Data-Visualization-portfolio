@@ -8,3 +8,6 @@ If I were doing this again, I would have started sooner to give myself more time
 
 MIS 561 Data Visualization, Data Camp Power BI training completed on 9/27/26 
 Link to published Tableau story: https://public.tableau.com/views/PowerBITrainingCert/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+MIS 561 Data Visualization, Data Camp Power BI DAX training completed on 10/4/26 
+Link to published Tableau story: https://public.tableau.com/app/profile/annie.scarangella/viz/PowerBITrainingCert/PowerBIStory?publish=yes
