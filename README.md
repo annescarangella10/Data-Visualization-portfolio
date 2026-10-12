@@ -12,3 +12,16 @@ Link to published Tableau story: https://public.tableau.com/views/PowerBITrainin
 MIS 561 Data Visualization, Data Camp Power BI DAX training completed on 10/4/26 
 Link to published Tableau story: https://public.tableau.com/views/PowerBITrainingCert/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 In Flex 4, I calculated each account’s Net Contribution by subtracting its Cost to Serve from its total Profit; for example, an account with -$362.87 in profit and $400 in service costs had a Net Contribution of -$762.87. In Power BI, I would build Net Contribution as a measure because the value should recalculate when the user filters the portfolio by account, service tier, or other dimensions rather than remain a fixed row-level value. Keeping the calculation in the model would also ensure that it updates as new order data is added instead of requiring the workbook analysis to be rebuilt. For Anita or Marcus, this means they could filter the portfolio themselves to identify unprofitable accounts or tiers without asking me to manually recalculate the analysis.
+
+MIS 561 Data Visualization, Data Visualization in Power BI training completed on 10/11/26 
+Link to published Tableau Story: https://public.tableau.com/views/PowerBITrainingCert/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Dear Sarah,
+My experience with Excel, Tableau, and Power BI has prepared me to approach business intelligence work at Southwest with a focus on translating data into actionable insights. Through my coursework, I have analyzed business performance, identified opportunities for improvement, and created visualizations that support decision-making.
+In previous weeks of analysis, I analyzed profitability across furniture subcategories and identified tables as the biggest opportunity for improvement because they were losing money. I would rebuild this visualization in Power BI using conditional formatting to highlight negative profits and low margins, making it easier for Anita or Marcus to identify areas requiring attention. Additionally, through my Power BI training, I learned to configure filtering levels and interactions between visuals. I previously had to manually configure these relationships in Tableau, but Power BI allows users to explore different segments while maintaining consistent filtering across a dashboard.
+
+At Southwest, I would use Excel for smaller datasets, preliminary calculations, and one-time analyses; Tableau for exploratory visualizations and communicating findings; and Power BI for interactive dashboards that require consistent reporting and ongoing performance monitoring.
+One area I would like to strengthen is my experience publishing and maintaining reports in Power BI Service. I plan to develop this skill by practicing report deployment, scheduled data refreshes, and access management to ensure stakeholders have reliable information for decision-making.
+
+Sincerely,
+Annie
