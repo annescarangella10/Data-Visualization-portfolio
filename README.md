@@ -25,3 +25,9 @@ One area I would like to strengthen is my experience publishing and maintaining 
 
 Sincerely,
 Annie
+
+MIS 561 Advancing in Excel and Tableau - Pt. 3
+This dashboard answers which set of contactless cards should be replaced and how much it will cost.
+Bear Down Bank Card Portfolio: Contactless Readiness, link to Tableau Dashboard: https://public.tableau.com/views/cardportfolio_beardownbank/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+If I was doing this assignment again, I would spend more time exploring alternative approaches to ensure I considered multiple perspectives before reaching my conclusion. 
+
