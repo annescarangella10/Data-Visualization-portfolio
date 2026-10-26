@@ -31,3 +31,7 @@ This dashboard answers which set of contactless cards should be replaced and how
 Bear Down Bank Card Portfolio: Contactless Readiness, link to Tableau Dashboard: https://public.tableau.com/views/cardportfolio_beardownbank/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 If I was doing this assignment again, I would spend more time exploring alternative approaches to ensure I considered multiple perspectives before reaching my conclusion. 
 
+MIS 561 Advancing in Excel and Tableau - Pt. 4
+This dashboard answers which customer segment should receive the initial Wildcat Rewards credit card pilot mailing.
+Bear Down Bank Card Portfolio: https://public.tableau.com/views/CardGrowthAnalysis-WildcatRewardsOffer_17930434722650/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+If I was doing this assignment again, I would incorporate estimated response rates and acquisition costs to evaluate which customer segments offer the greatest potential return on the pilot mailing.
