@@ -35,3 +35,17 @@ MIS 561 Advancing in Excel and Tableau - Pt. 4
 This dashboard answers which customer segment should receive the initial Wildcat Rewards credit card pilot mailing.
 Bear Down Bank Card Portfolio: https://public.tableau.com/views/CardGrowthAnalysis-WildcatRewardsOffer_17930434722650/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 If I was doing this assignment again, I would incorporate estimated response rates and acquisition costs to evaluate which customer segments offer the greatest potential return on the pilot mailing.
+
+**Nov 2, 2026 · Data Storytelling with Adobe Express**
+
+Work sample for CFO, Southwest Office Solutions: Executive briefing recommending a category-wide pricing and cost review of Tables.he analysis identified Tables as the largest source of losses within the Furniture category, generating a net loss of $16,937 and a profit margin of -8.46%.
+
+[Work sample (PDF)](https://github.com/annescarangella10/Data-Visualization-portfolio/blob/main/scarangella-data-storytelling%20(1).pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:US:2540c7f3-e311-5cd3-b6b2-aa413ed09ef5?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+
+Design choice: 
+I combined an overall product profitability chart with a customer-segment profitability comparison to demonstrate both the financial impact of Tables and the consistency of losses across customer groups. The segment-level visualization supports a category-wide intervention rather than a segment-specific pricing adjustment, helping the CFO identify the appropriate scope of action. I removed dollar value of profit from the profit margin visual because it was confusing in this context. I removed a discount-versus-profit scatterplot because it did not reveal a clear relationship, allowing the final design to emphasize the strongest evidence supporting the recommendation.
+
+Training completed: Nov 1, 2026
+AI Use Disclosure:
+OpenAI ChatGPT (GPT-6) was used on October 31, 2026 to help create a positioning statement for the brand and November 2, 2026, to assist with refining the executive recommendation, organizing the visual narrative, and editing the GitHub README entry, assessing the visual for readability, and confirming I had completed all the sections of the assignment. 
+OpenAI. (2026). ChatGPT (GPT-6) [Large language model]. https://chatgpt.com/
