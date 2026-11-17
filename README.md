@@ -54,8 +54,9 @@ OpenAI. (2026). ChatGPT (GPT-6) [Large language model]. https://chatgpt.com/
 Pitch to the Chief Financial Officer of Southwest Office Solutions: approve a six-week pricing and cost optimization assessment focused on addressing profitability losses within the Tables subcategory and identifying targeted opportunities for margin improvement.
 
 [Adobe Express] (https://new.express.adobe.com/id/urn:aaid:sc:US:5259bf43-67ee-543d-b211-6626dfeb9429?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
-
+[Work sample] https://github.com/annescarangella10/Data-Visualization-portfolio/blob/main/scarangella-adobe-product-pitch%20(1).pdf
 Toughest objection: "How can we be confident that pricing adjustments will improve profitability without negatively impacting sales?" Slide 6 addresses this concern by proposing targeted pricing tests and cost evaluations before broader implementation, allowing Southwest to evaluate potential risks and make data-driven decisions.
 
 AI use: OpenAI ChatGPT (GPT-6), November 14, 2026 and November 16, 2026, used to support presentation content development, identify potential executive objections, and refine the README entry
+Adobe Firefly, November 14, 2026, used to create a background image on the title slide of an office furniture layout 
 
