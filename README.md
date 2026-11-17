@@ -49,3 +49,13 @@ Training completed: Nov 1, 2026
 AI Use Disclosure:
 OpenAI ChatGPT (GPT-6) was used on October 31, 2026 to help create a positioning statement for the brand and November 2, 2026, to assist with refining the executive recommendation, organizing the visual narrative, and editing the GitHub README entry, assessing the visual for readability, and confirming I had completed all the sections of the assignment. 
 OpenAI. (2026). ChatGPT (GPT-6) [Large language model]. https://chatgpt.com/
+
+**Nov 10, 2026 · Product Pitch with Generative AI with Adobe Express**
+Pitch to the Chief Financial Officer of Southwest Office Solutions: approve a six-week pricing and cost optimization assessment focused on addressing profitability losses within the Tables subcategory and identifying targeted opportunities for margin improvement.
+
+[Adobe Express] (https://new.express.adobe.com/id/urn:aaid:sc:US:5259bf43-67ee-543d-b211-6626dfeb9429?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+
+Toughest objection: "How can we be confident that pricing adjustments will improve profitability without negatively impacting sales?" Slide 6 addresses this concern by proposing targeted pricing tests and cost evaluations before broader implementation, allowing Southwest to evaluate potential risks and make data-driven decisions.
+
+AI use: OpenAI ChatGPT (GPT-6), November 14, 2026 and November 16, 2026, used to support presentation content development, identify potential executive objections, and refine the README entry
+
